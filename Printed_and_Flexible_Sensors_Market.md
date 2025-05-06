@@ -9,7 +9,7 @@ These sensors can bend, stretch, and fit perfectly into wearables and IoT device
 
 ## Market Overview
 
-The global printed and flexible sensors market(https://www.transparencymarketresearch.com/printed-and-flexible-sensors-market.html) was valued at **USD 1.4 billion in 2022** and is projected to grow at a **compound annual growth rate (CAGR) of 13.4% from 2023 to 2031**. Driven by increasing demand for lightweight, low-cost, and flexible sensing solutions across industries such as healthcare, consumer electronics, and automotive, the market is expected to reach **USD 4.1 billion by 2031**.
+The global [printed and flexible sensors market](https://www.transparencymarketresearch.com/printed-and-flexible-sensors-market.html) was valued at **USD 1.4 billion in 2022** and is projected to grow at a **compound annual growth rate (CAGR) of 13.4% from 2023 to 2031**. Driven by increasing demand for lightweight, low-cost, and flexible sensing solutions across industries such as healthcare, consumer electronics, and automotive, the market is expected to reach **USD 4.1 billion by 2031**.
 
 The demand for better health tracking and smart living spaces keeps rising. Printed and flexible sensors give companies the tools to design smaller, smarter, and more comfortable devices that truly work for everyone.
 
